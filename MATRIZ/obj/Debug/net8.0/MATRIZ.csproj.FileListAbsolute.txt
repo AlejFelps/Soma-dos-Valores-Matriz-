@@ -1,0 +1,14 @@
+C:\C#\MATRIZ\obj\Debug\net8.0\MATRIZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\MATRIZ\obj\Debug\net8.0\MATRIZ.AssemblyInfoInputs.cache
+C:\C#\MATRIZ\obj\Debug\net8.0\MATRIZ.AssemblyInfo.cs
+C:\C#\MATRIZ\obj\Debug\net8.0\MATRIZ.csproj.CoreCompileInputs.cache
+C:\C#\MATRIZ\bin\Debug\net8.0\MATRIZ.exe
+C:\C#\MATRIZ\bin\Debug\net8.0\MATRIZ.deps.json
+C:\C#\MATRIZ\bin\Debug\net8.0\MATRIZ.runtimeconfig.json
+C:\C#\MATRIZ\bin\Debug\net8.0\MATRIZ.dll
+C:\C#\MATRIZ\bin\Debug\net8.0\MATRIZ.pdb
+C:\C#\MATRIZ\obj\Debug\net8.0\MATRIZ.dll
+C:\C#\MATRIZ\obj\Debug\net8.0\refint\MATRIZ.dll
+C:\C#\MATRIZ\obj\Debug\net8.0\MATRIZ.pdb
+C:\C#\MATRIZ\obj\Debug\net8.0\MATRIZ.genruntimeconfig.cache
+C:\C#\MATRIZ\obj\Debug\net8.0\ref\MATRIZ.dll
